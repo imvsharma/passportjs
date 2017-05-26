@@ -1,0 +1,44 @@
+.header{
+    width: 100%;
+    height: 50px;
+    border-bottom: 1px solid #e8e8e8;
+    position: relative;
+}
+
+#logo{
+    display: inline-block;
+    margin-left: 5%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#right{
+    display: inline-block;
+    float: right;
+    margin-right: 2%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+}
+
+#login{
+    text-align: center;
+    border: 1px solid #e8e8e8;
+    width: 75px;
+    display: inline-block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    cursor: pointer;
+}
+
+#signup{
+    text-align: center;
+    border: 1px solid #e8e8e8;
+    width: 75px;
+    display: inline-block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "mean-app",
+  "description": "A mini mean app with passport-local. In this application we can use passport-local, express, express-session , mongoose, morgan, angular, mongodb etc. In this application we can achieve the functionality of signup login and view home page and view own profile and profile of others.",
+  "main": "server.js",
+  "authors": [
+    "vsvaibhav2016@gmail.com"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-route": "^1.6.4"
+  }
+}
